@@ -1,4 +1,5 @@
 import React from 'react'
+import { Container, Row, Col } from "../../components/Grid";
 
 const ContactScreen = () => {
     return (
